@@ -1,1 +1,1 @@
-worker: python Coron.py $PORT
+bot: python Corona.py
