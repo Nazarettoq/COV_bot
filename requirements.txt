@@ -1,1 +1,1 @@
-pyTelegramBotAPI 3.6.7
+pip freeze > requirements.txt
