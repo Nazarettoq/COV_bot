@@ -1,1 +1,1 @@
-web: python Corona.py
+worker: python Corona.py
